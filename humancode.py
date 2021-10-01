@@ -27,3 +27,4 @@ while(i<10):
 		print("impossible")
 		pyttsx3.speak("not available in this tools")
 print("Thank You For Using My Tool")
+pyttsx3.speak("Thank YOU For Using My Tool Have A Good DaY")
